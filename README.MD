@@ -6,7 +6,7 @@ For AWS Hosting Setup & Installation
 
 #### GitHub Repository
 
-https://github.com/ian-s-riley/7a-MERN.git
+https://github.com/7aware/7a-MERN.git
 
 #### Support
 
